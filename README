@@ -1,0 +1,14 @@
+
+HOW TO INSTALL AND RUN
+======================
+
+git clone https://github.com/mudyc/ties474-peli3-flappy-doppy.git
+cd ties474-peli3-flappy-doppy
+
+# 1 option
+python -m SimpleHTTPServer
+browse to http://localhost:8000/game.html
+
+# 2 option
+webfsd -F
+browse to http://localhost:8000/game.html
