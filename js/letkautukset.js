@@ -22,4 +22,5 @@ window.TEXTS = [
  'Hae kalas pakastealtaasta',
  'Etpä ole itekkään\nkumman näkönen',
  'Ei aina voi olla\npenaalin terävin kynä',
+ 'Koita ite meloa\nkorvillasi',
 ];
