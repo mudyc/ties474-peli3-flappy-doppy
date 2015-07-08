@@ -13,13 +13,13 @@ window.TEXTS = [
  'Et sää mua pois saa',
  'Olen täynnä luteita',
  'Teeppä ite perässä',
- 'Mulkero..',
+ //'Mulkero..',
  'Oikeesti et sais edes\nmatoa vesilätäköstä',
  'Kuolin sitten sukupuuttoon',
  'Pah, ikineitsyt',
  'Rihmaläjä koitui kuolemaksi',
  'Tapoit sitten viimisen\nlajinedustajan',
- 'Hae kalas pakatealtaasta',
+ 'Hae kalas pakastealtaasta',
  'Etpä ole itekkään\nkumman näkönen',
 
 ];
