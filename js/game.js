@@ -142,6 +142,7 @@ function Game() {
   var GameOver = function(game){};
   GameOver.prototype = {
     init: function(count) {
+      this.t0 = Date.now();
       this.count = count;
     },
     create: function() {
@@ -189,7 +190,8 @@ function Game() {
 
     },
     flap: function() {
-      game.state.start('swim', true);
+      if ((Date.now() - this.t0) > 1500)
+        game.state.start('swim', true);
     }
   };
 

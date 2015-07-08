@@ -21,5 +21,5 @@ window.TEXTS = [
  'Tapoit sitten viimisen\nlajinedustajan',
  'Hae kalas pakastealtaasta',
  'Etpä ole itekkään\nkumman näkönen',
-
+ 'Ei aina voi olla\npenaalin terävin kynä',
 ];
